@@ -5,7 +5,7 @@ Você é uma startup que decidiu empreender na área de casa conectada (smart ho
 
 ### Bibliotecas e exemplo
 
-[Código start](http://)
+[Código start](https://github.com/IoTLabFIAP/iotlabfiap-grupos/blob/master/Grupos/CasaConectada/casaconectada.ino)
 
 ### Esquemático
 
