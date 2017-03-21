@@ -1,0 +1,3 @@
+### 7) Chat Bot - Desafio IoT ok
+
+Com a popularização dos Bots e o Messenger do Facebook como um dos precursores desta tecnologia, você e sua equipe definiram que a próxima geração da internet das Coisas é ser mais social, usando interfaces como o Messenger para interagir com objetos tais como a cafeteira, lâmpadas, geladeiras etc. Para provar que faz sentido a visão de vocês, vocês foram convidados para apresentar um protótipo que usando o messenger do facebook , você são capazes de interagir com um um objeto ( no caso uma lâmpada) que não possui conectividade nativa com a internet.  A aplicação web deverá armazenar o status dos objetos para futuras análises quanto ao comportamento do usuário em casa.
