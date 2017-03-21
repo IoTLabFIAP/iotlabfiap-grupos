@@ -1,6 +1,3 @@
 ### 3) Carro conectado ok
 
-Você faz parte da área de produto de uma multinacional fabricante de automóveis que está iniciando um projeto de desenvolvimento para ensaio de amortecedores. A equipe engenharia especificou dois dados extremamente relevantes: Aceleração e distância de parada de um objeto. Os engenheiros tem interesse em saber em tempo real o nível de aceleração em cada ensaio, além da distância a um objeto especificado, através de um dashboard via web.
-
-Para distância, considerar unidade de medida em centímetro
-Para aceleração , considerar apenas o eixo Y
+Você está desenvolvimento um acessório para o carro conectado , de maneira a ajudar os usuários quanto a estacionar melhor o veículo. Esse sistema possui um sensor ultra sônico localizado na parte traseira do carro para evitar a colisão com outro veículo estacionado. Além do sensor este sistema é dotado de uma sinalização através de 3 Leds nas seguintes cores : verde (distância maior que 1 metro) , amarelo (distância entre 90cm a 50 cm) e vermelho (menor que 50cm) . Este sistema visa ser uma aplicativo que irá pontuar os melhores motorista atribuindo uma nota baseado no comportamento do usuário durante o estacionamento. 
