@@ -1,0 +1,3 @@
+### 6) Supply chain - Desafio IoT ok (testar)
+
+A área de negócios da empresa que você trabalha (uma grande multinacional de logística) está perdendo dinheiro com o rastreio de produtos e paletes que são transportados em caminhões da sua frota. A solução alinhada com o usuário é o uso de uma app que faça um check dentro do caminhão quando o mesmo for abastecido e uma interface web que apresente em tempo real o status das cargas que estão transportadas por todo o país. Assim , os gestores podem ser capazes de entender quais os centros de distribuição apresentam melhor e pior performance para que isso possa alimentar o planejamento da cadeia .
