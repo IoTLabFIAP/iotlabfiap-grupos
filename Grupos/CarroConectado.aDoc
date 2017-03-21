@@ -1,0 +1,6 @@
+### 3) Carro conectado ok
+
+Você faz parte da área de produto de uma multinacional fabricante de automóveis que está iniciando um projeto de desenvolvimento para ensaio de amortecedores. A equipe engenharia especificou dois dados extremamente relevantes: Aceleração e distância de parada de um objeto. Os engenheiros tem interesse em saber em tempo real o nível de aceleração em cada ensaio, além da distância a um objeto especificado, através de um dashboard via web.
+
+Para distância, considerar unidade de medida em centímetro
+Para aceleração , considerar apenas o eixo Y
