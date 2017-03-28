@@ -5,4 +5,6 @@ A prefeitura de São Paulo está com um projeto de smart cities com foco em 2 pr
 Para fins de análise, o ruído será calculado com a seguinte fórmula: 
 double db = 16.801 * log (sensorValue/1023) + 9.872;
 
+[Biblioteca Sensor de temperatura] (https://github.com/adafruit/DHT-sensor-library/archive/master.zip)
+
 <img src="https://raw.githubusercontent.com/IoTLabFIAP/iotlabfiap-grupos/master/Grupos/SmartCities/Grupo%20Smart%20City_bb.png">
