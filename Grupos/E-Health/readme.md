@@ -1,3 +1,6 @@
 ### 8) E-Health 
 
 A área de marketing de uma indústria farmacêutica enfrenta hoje um grande problema de mercado: A adesão à medicamentos para doenças crônicas. Para algumas doenças crônicas, é necessário saber a quantidade de batimentos cardíacos antes de tomar a medicação .O paciente muitas vezes se esquece de tomar o medicamento na hora certa e isso reduz o efeito da droga o que consequentemente aumenta as chances de agravar o quadro clínico do paciente. Além disso é necessário que seja coletado a quantidade de batimentos cardíacos do paciente. A empresa de soluções de e-health que você trabalha foi contratada para resolver esse cenário e terá que criar uma solução que seja capaz alertar o paciente que está na hora de tomar o medicamento e coletar os seus respectivos batimentos, além de disponibilizar para o médico que acompanha o paciente um dashboard com o analytics do comportamento de adesão ao tratamento prescrito. Além disso, um webapp deve ser disponibilizado para que alguém da família possa acompanhar se o paciente está tomando o medicamento e caso contrário poderá entrar em contato e lembrá-lo.
+
+<img src="https://raw.githubusercontent.com/IoTLabFIAP/iotlabfiap-grupos/master/Grupos/E-Health/E-Health.png"/>
+
