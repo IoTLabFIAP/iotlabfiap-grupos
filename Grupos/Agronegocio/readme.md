@@ -17,3 +17,6 @@ Para luminosidade, considerar a quantidade de LUX
 | Min. necessary for robust growth | 20000 - 25000 lux |
 
 *Plants need 25000-50000 lux too grow fast.*
+
+
+<img src="https://github.com/IoTLabFIAP/iotlabfiap-grupos/blob/master/Grupos/Agronegocio/grupoAgro_bb.png"/>
