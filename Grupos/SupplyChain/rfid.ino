@@ -35,7 +35,7 @@ void setup() {
   
   //Iniciando PCD do RFID
   mfrc522.PCD_Init();
-  printLCD("Passe o Cartao!");  
+  Serial.print("Passe o Cartao!");  
 }
 
 
@@ -84,7 +84,7 @@ void verificaAcesso(String mensagem){
 
 //Método de envio do id do cartão lido pra fila acesso
 void sendMessage(MFRC522 mfrc522){
-  printLCD("Lendo Cartao");
+  Serial.print("Lendo Cartao");
   char rfidstr[15];
   char s[100];
   for (int i = 0; i < mfrc522.uid.size; i++){
@@ -97,12 +97,9 @@ void sendMessage(MFRC522 mfrc522){
   }
   Serial.print("Card ");
   Serial.print(rfidstr);
-
-  //Publicando na fila acesso o id do cartão lido
-  client.publish("acesso", rfidstr);  
   
   Serial.println();
-  printLCD("Verificando...");
+  Serial.print("Verificando...");
 
   return;
 }
